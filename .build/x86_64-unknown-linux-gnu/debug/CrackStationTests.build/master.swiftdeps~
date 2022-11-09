@@ -1,0 +1,6 @@
+version: "Swift version 5.7 (swift-5.7-RELEASE)"
+options: "1de2b5c11c0c3fbf773a5c56457a6734969441eda2cf66921e3eaf290b9e7ee6"
+build_start_time: [1667082049, 167381048]
+build_end_time: [1667082051, 197773933]
+inputs:
+  "/mnt/d/OSU/SEM/CrackStation/Tests/CrackStationTests/CrackStationTests.swift": [1667079654, 976745843]

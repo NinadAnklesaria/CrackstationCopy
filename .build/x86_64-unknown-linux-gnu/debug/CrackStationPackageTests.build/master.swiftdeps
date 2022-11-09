@@ -1,0 +1,7 @@
+version: "Swift version 5.7 (swift-5.7-RELEASE)"
+options: "08a3e79115e7f0588725ef16c513dac5904a8286d73094eadbaabdbdef055519"
+build_start_time: [1667089702, 290601968]
+build_end_time: [1667089704, 921388149]
+inputs:
+  "/mnt/d/OSU/SEM/CrackStation/.build/x86_64-unknown-linux-gnu/debug/CrackStationPackageTests.derived/CrackStationTests.swift": [1667089701, 963073968]
+  "/mnt/d/OSU/SEM/CrackStation/.build/x86_64-unknown-linux-gnu/debug/CrackStationPackageTests.derived/runner.swift": [1667089701, 978451967]

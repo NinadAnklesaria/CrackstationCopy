@@ -1,0 +1,17 @@
+{
+  "": {
+    "swift-dependencies": "D:\\OSU\\SEM\\CrackStation\\.build\\x86_64-unknown-windows-msvc\\debug\\CrackStationPackageTests.build\\master.swiftdeps"
+  },
+  "D:\\OSU\\SEM\\CrackStation\\.build\\x86_64-unknown-windows-msvc\\debug\\CrackStationPackageTests.derived\\CrackStationTests.swift": {
+    "dependencies": "D:\\OSU\\SEM\\CrackStation\\.build\\x86_64-unknown-windows-msvc\\debug\\CrackStationPackageTests.build\\CrackStationTests.d",
+    "object": "D:\\OSU\\SEM\\CrackStation\\.build\\x86_64-unknown-windows-msvc\\debug\\CrackStationPackageTests.build\\CrackStationTests.swift.o",
+    "swiftmodule": "D:\\OSU\\SEM\\CrackStation\\.build\\x86_64-unknown-windows-msvc\\debug\\CrackStationPackageTests.build\\CrackStationTests~partial.swiftmodule",
+    "swift-dependencies": "D:\\OSU\\SEM\\CrackStation\\.build\\x86_64-unknown-windows-msvc\\debug\\CrackStationPackageTests.build\\CrackStationTests.swiftdeps"
+  },
+  "D:\\OSU\\SEM\\CrackStation\\.build\\x86_64-unknown-windows-msvc\\debug\\CrackStationPackageTests.derived\\runner.swift": {
+    "dependencies": "D:\\OSU\\SEM\\CrackStation\\.build\\x86_64-unknown-windows-msvc\\debug\\CrackStationPackageTests.build\\runner.d",
+    "object": "D:\\OSU\\SEM\\CrackStation\\.build\\x86_64-unknown-windows-msvc\\debug\\CrackStationPackageTests.build\\runner.swift.o",
+    "swiftmodule": "D:\\OSU\\SEM\\CrackStation\\.build\\x86_64-unknown-windows-msvc\\debug\\CrackStationPackageTests.build\\runner~partial.swiftmodule",
+    "swift-dependencies": "D:\\OSU\\SEM\\CrackStation\\.build\\x86_64-unknown-windows-msvc\\debug\\CrackStationPackageTests.build\\runner.swiftdeps"
+  }
+}

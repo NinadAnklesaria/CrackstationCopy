@@ -1,0 +1,277 @@
+{
+  "builtTestProducts" : [
+    {
+      "binaryPath" : "D:\\OSU\\SEM\\CrackStation\\.build\\x86_64-unknown-windows-msvc\\debug\\CrackStationPackageTests.xctest",
+      "productName" : "CrackStationPackageTests"
+    }
+  ],
+  "copyCommands" : {
+    "D:\\OSU\\SEM\\CrackStation\\.build\\x86_64-unknown-windows-msvc\\debug\\CrackStation_CrackStation.resources\\data.json" : {
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "D:\\OSU\\SEM\\CrackStation\\Sources\\CrackStation\\Resources\\data.json"
+        }
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "D:\\OSU\\SEM\\CrackStation\\.build\\x86_64-unknown-windows-msvc\\debug\\CrackStation_CrackStation.resources\\data.json"
+        }
+      ]
+    },
+    "D:\\OSU\\SEM\\CrackStation\\.build\\x86_64-unknown-windows-msvc\\debug\\CrackStation_CrackStation.resources\\maketable.py" : {
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "D:\\OSU\\SEM\\CrackStation\\Sources\\CrackStation\\Resources\\maketable.py"
+        }
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "D:\\OSU\\SEM\\CrackStation\\.build\\x86_64-unknown-windows-msvc\\debug\\CrackStation_CrackStation.resources\\maketable.py"
+        }
+      ]
+    }
+  },
+  "pluginDescriptions" : [
+
+  ],
+  "swiftCommands" : {
+    "C.CrackStation-debug.module" : {
+      "executable" : "C:\\Library\\Developer\\Toolchains\\unknown-Asserts-development.xctoolchain\\usr\\bin\\swiftc.exe",
+      "importPath" : "D:\\OSU\\SEM\\CrackStation\\.build\\x86_64-unknown-windows-msvc\\debug",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "D:\\OSU\\SEM\\CrackStation\\Sources\\CrackStation\\CrackStation.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "D:\\OSU\\SEM\\CrackStation\\.build\\x86_64-unknown-windows-msvc\\debug\\CrackStation.build\\DerivedSources\\resource_bundle_accessor.swift"
+        },
+        {
+          "kind" : "virtual",
+          "name" : "<CrackStation-debug.module-resources>"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "CrackStation",
+      "moduleOutputPath" : "D:\\OSU\\SEM\\CrackStation\\.build\\x86_64-unknown-windows-msvc\\debug\\CrackStation.swiftmodule",
+      "objects" : [
+        "D:\\OSU\\SEM\\CrackStation\\.build\\x86_64-unknown-windows-msvc\\debug\\CrackStation.build\\CrackStation.swift.o",
+        "D:\\OSU\\SEM\\CrackStation\\.build\\x86_64-unknown-windows-msvc\\debug\\CrackStation.build\\resource_bundle_accessor.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "x86_64-unknown-windows-msvc",
+        "-swift-version",
+        "5",
+        "-enable-batch-mode",
+        "-index-store-path",
+        "D:\\OSU\\SEM\\CrackStation\\.build\\x86_64-unknown-windows-msvc\\debug\\index\\store",
+        "-Onone",
+        "-enable-testing",
+        "-g",
+        "-j8",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-module-cache-path",
+        "D:\\OSU\\SEM\\CrackStation\\.build\\x86_64-unknown-windows-msvc\\debug\\ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-color-diagnostics",
+        "-sdk",
+        "C:\\Library\\Developer\\Platforms\\Windows.platform\\Developer\\SDKs\\Windows.sdk",
+        "-libc",
+        "MD",
+        "-I",
+        "C:\\Library\\Developer\\Platforms\\Windows.platform\\Developer\\Library\\XCTest-development\\usr\\lib\\swift\\windows\\x86_64",
+        "-L",
+        "C:\\Library\\Developer\\Platforms\\Windows.platform\\Developer\\Library\\XCTest-development\\usr\\lib\\swift\\windows\\x86_64",
+        "-use-ld=lld"
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "D:\\OSU\\SEM\\CrackStation\\.build\\x86_64-unknown-windows-msvc\\debug\\CrackStation.build\\CrackStation.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "D:\\OSU\\SEM\\CrackStation\\.build\\x86_64-unknown-windows-msvc\\debug\\CrackStation.build\\resource_bundle_accessor.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "D:\\OSU\\SEM\\CrackStation\\.build\\x86_64-unknown-windows-msvc\\debug\\CrackStation.swiftmodule"
+        }
+      ],
+      "sources" : [
+        "D:\\OSU\\SEM\\CrackStation\\Sources\\CrackStation\\CrackStation.swift",
+        "D:\\OSU\\SEM\\CrackStation\\.build\\x86_64-unknown-windows-msvc\\debug\\CrackStation.build\\DerivedSources\\resource_bundle_accessor.swift"
+      ],
+      "tempsPath" : "D:\\OSU\\SEM\\CrackStation\\.build\\x86_64-unknown-windows-msvc\\debug\\CrackStation.build",
+      "wholeModuleOptimization" : false
+    },
+    "C.CrackStationPackageTests-debug.module" : {
+      "executable" : "C:\\Library\\Developer\\Toolchains\\unknown-Asserts-development.xctoolchain\\usr\\bin\\swiftc.exe",
+      "importPath" : "D:\\OSU\\SEM\\CrackStation\\.build\\x86_64-unknown-windows-msvc\\debug",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "D:\\OSU\\SEM\\CrackStation\\.build\\x86_64-unknown-windows-msvc\\debug\\CrackStationPackageTests.derived\\CrackStationTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "D:\\OSU\\SEM\\CrackStation\\.build\\x86_64-unknown-windows-msvc\\debug\\CrackStationPackageTests.derived\\runner.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "D:\\OSU\\SEM\\CrackStation\\.build\\x86_64-unknown-windows-msvc\\debug\\CrackStationTests.swiftmodule"
+        }
+      ],
+      "isLibrary" : false,
+      "moduleName" : "CrackStationPackageTests",
+      "moduleOutputPath" : "D:\\OSU\\SEM\\CrackStation\\.build\\x86_64-unknown-windows-msvc\\debug\\CrackStationPackageTests.build\\CrackStationPackageTests.swiftmodule",
+      "objects" : [
+        "D:\\OSU\\SEM\\CrackStation\\.build\\x86_64-unknown-windows-msvc\\debug\\CrackStationPackageTests.build\\CrackStationTests.swift.o",
+        "D:\\OSU\\SEM\\CrackStation\\.build\\x86_64-unknown-windows-msvc\\debug\\CrackStationPackageTests.build\\runner.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "x86_64-unknown-windows-msvc",
+        "-swift-version",
+        "5",
+        "-enable-batch-mode",
+        "-index-store-path",
+        "D:\\OSU\\SEM\\CrackStation\\.build\\x86_64-unknown-windows-msvc\\debug\\index\\store",
+        "-Onone",
+        "-enable-testing",
+        "-g",
+        "-j8",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-module-cache-path",
+        "D:\\OSU\\SEM\\CrackStation\\.build\\x86_64-unknown-windows-msvc\\debug\\ModuleCache",
+        "-parseable-output",
+        "-color-diagnostics",
+        "-sdk",
+        "C:\\Library\\Developer\\Platforms\\Windows.platform\\Developer\\SDKs\\Windows.sdk",
+        "-libc",
+        "MD",
+        "-I",
+        "C:\\Library\\Developer\\Platforms\\Windows.platform\\Developer\\Library\\XCTest-development\\usr\\lib\\swift\\windows\\x86_64",
+        "-L",
+        "C:\\Library\\Developer\\Platforms\\Windows.platform\\Developer\\Library\\XCTest-development\\usr\\lib\\swift\\windows\\x86_64",
+        "-use-ld=lld"
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "D:\\OSU\\SEM\\CrackStation\\.build\\x86_64-unknown-windows-msvc\\debug\\CrackStationPackageTests.build\\CrackStationTests.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "D:\\OSU\\SEM\\CrackStation\\.build\\x86_64-unknown-windows-msvc\\debug\\CrackStationPackageTests.build\\runner.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "D:\\OSU\\SEM\\CrackStation\\.build\\x86_64-unknown-windows-msvc\\debug\\CrackStationPackageTests.build\\CrackStationPackageTests.swiftmodule"
+        }
+      ],
+      "sources" : [
+        "D:\\OSU\\SEM\\CrackStation\\.build\\x86_64-unknown-windows-msvc\\debug\\CrackStationPackageTests.derived\\CrackStationTests.swift",
+        "D:\\OSU\\SEM\\CrackStation\\.build\\x86_64-unknown-windows-msvc\\debug\\CrackStationPackageTests.derived\\runner.swift"
+      ],
+      "tempsPath" : "D:\\OSU\\SEM\\CrackStation\\.build\\x86_64-unknown-windows-msvc\\debug\\CrackStationPackageTests.build",
+      "wholeModuleOptimization" : false
+    },
+    "C.CrackStationTests-debug.module" : {
+      "executable" : "C:\\Library\\Developer\\Toolchains\\unknown-Asserts-development.xctoolchain\\usr\\bin\\swiftc.exe",
+      "importPath" : "D:\\OSU\\SEM\\CrackStation\\.build\\x86_64-unknown-windows-msvc\\debug",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "D:\\OSU\\SEM\\CrackStation\\Tests\\CrackStationTests\\CrackStationTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "D:\\OSU\\SEM\\CrackStation\\.build\\x86_64-unknown-windows-msvc\\debug\\CrackStation.swiftmodule"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "CrackStationTests",
+      "moduleOutputPath" : "D:\\OSU\\SEM\\CrackStation\\.build\\x86_64-unknown-windows-msvc\\debug\\CrackStationTests.swiftmodule",
+      "objects" : [
+        "D:\\OSU\\SEM\\CrackStation\\.build\\x86_64-unknown-windows-msvc\\debug\\CrackStationTests.build\\CrackStationTests.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "x86_64-unknown-windows-msvc",
+        "-swift-version",
+        "5",
+        "-enable-batch-mode",
+        "-index-store-path",
+        "D:\\OSU\\SEM\\CrackStation\\.build\\x86_64-unknown-windows-msvc\\debug\\index\\store",
+        "-Onone",
+        "-enable-testing",
+        "-g",
+        "-j8",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-module-cache-path",
+        "D:\\OSU\\SEM\\CrackStation\\.build\\x86_64-unknown-windows-msvc\\debug\\ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-color-diagnostics",
+        "-sdk",
+        "C:\\Library\\Developer\\Platforms\\Windows.platform\\Developer\\SDKs\\Windows.sdk",
+        "-libc",
+        "MD",
+        "-I",
+        "C:\\Library\\Developer\\Platforms\\Windows.platform\\Developer\\Library\\XCTest-development\\usr\\lib\\swift\\windows\\x86_64",
+        "-L",
+        "C:\\Library\\Developer\\Platforms\\Windows.platform\\Developer\\Library\\XCTest-development\\usr\\lib\\swift\\windows\\x86_64",
+        "-use-ld=lld"
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "D:\\OSU\\SEM\\CrackStation\\.build\\x86_64-unknown-windows-msvc\\debug\\CrackStationTests.build\\CrackStationTests.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "D:\\OSU\\SEM\\CrackStation\\.build\\x86_64-unknown-windows-msvc\\debug\\CrackStationTests.swiftmodule"
+        }
+      ],
+      "sources" : [
+        "D:\\OSU\\SEM\\CrackStation\\Tests\\CrackStationTests\\CrackStationTests.swift"
+      ],
+      "tempsPath" : "D:\\OSU\\SEM\\CrackStation\\.build\\x86_64-unknown-windows-msvc\\debug\\CrackStationTests.build",
+      "wholeModuleOptimization" : false
+    }
+  },
+  "swiftFrontendCommands" : {
+
+  },
+  "testDiscoveryCommands" : {
+    "D:\\OSU\\SEM\\CrackStation\\.build\\x86_64-unknown-windows-msvc\\debug\\CrackStationPackageTests.derived\\runner.swift" : {
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "D:\\OSU\\SEM\\CrackStation\\.build\\x86_64-unknown-windows-msvc\\debug\\CrackStationTests.build\\CrackStationTests.swift.o"
+        }
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "D:\\OSU\\SEM\\CrackStation\\.build\\x86_64-unknown-windows-msvc\\debug\\CrackStationPackageTests.derived\\CrackStationTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "D:\\OSU\\SEM\\CrackStation\\.build\\x86_64-unknown-windows-msvc\\debug\\CrackStationPackageTests.derived\\runner.swift"
+        }
+      ]
+    }
+  }
+}

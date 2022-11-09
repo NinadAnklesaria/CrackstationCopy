@@ -1,0 +1,17 @@
+{
+  "": {
+    "swift-dependencies": "D:\\OSU\\SEM\\CrackStation\\.build\\x86_64-unknown-windows-msvc\\debug\\CrackStation.build\\master.swiftdeps"
+  },
+  "D:\\OSU\\SEM\\CrackStation\\Sources\\CrackStation\\CrackStation.swift": {
+    "dependencies": "D:\\OSU\\SEM\\CrackStation\\.build\\x86_64-unknown-windows-msvc\\debug\\CrackStation.build\\CrackStation.d",
+    "object": "D:\\OSU\\SEM\\CrackStation\\.build\\x86_64-unknown-windows-msvc\\debug\\CrackStation.build\\CrackStation.swift.o",
+    "swiftmodule": "D:\\OSU\\SEM\\CrackStation\\.build\\x86_64-unknown-windows-msvc\\debug\\CrackStation.build\\CrackStation~partial.swiftmodule",
+    "swift-dependencies": "D:\\OSU\\SEM\\CrackStation\\.build\\x86_64-unknown-windows-msvc\\debug\\CrackStation.build\\CrackStation.swiftdeps"
+  },
+  "D:\\OSU\\SEM\\CrackStation\\.build\\x86_64-unknown-windows-msvc\\debug\\CrackStation.build\\DerivedSources\\resource_bundle_accessor.swift": {
+    "dependencies": "D:\\OSU\\SEM\\CrackStation\\.build\\x86_64-unknown-windows-msvc\\debug\\CrackStation.build\\resource_bundle_accessor.d",
+    "object": "D:\\OSU\\SEM\\CrackStation\\.build\\x86_64-unknown-windows-msvc\\debug\\CrackStation.build\\resource_bundle_accessor.swift.o",
+    "swiftmodule": "D:\\OSU\\SEM\\CrackStation\\.build\\x86_64-unknown-windows-msvc\\debug\\CrackStation.build\\resource_bundle_accessor~partial.swiftmodule",
+    "swift-dependencies": "D:\\OSU\\SEM\\CrackStation\\.build\\x86_64-unknown-windows-msvc\\debug\\CrackStation.build\\resource_bundle_accessor.swiftdeps"
+  }
+}

@@ -1,0 +1,6 @@
+version: "compnerd.org Swift version 5.7 (swift-5.7-RELEASE)"
+options: "7f230d7294c0920a31440ffea43ae5ac4f368df9c68c6f4e3cc9382978076938"
+build_start_time: [1667962546, 565999984]
+build_end_time: [1667962548, 1998901]
+inputs:
+  "D:\\OSU\\SEM\\CrackStation\\Tests\\CrackStationTests\\CrackStationTests.swift": [1667087141, 0]

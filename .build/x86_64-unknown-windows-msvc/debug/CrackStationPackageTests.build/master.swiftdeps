@@ -1,0 +1,7 @@
+version: "compnerd.org Swift version 5.7 (swift-5.7-RELEASE)"
+options: "4f820187345fe8c0b3f567edaa705c2014e84680ac2a656314f9bfa7edf345a4"
+build_start_time: [1667962548, 314998626]
+build_end_time: [1667962550, 83000183]
+inputs:
+  "D:\\OSU\\SEM\\CrackStation\\.build\\x86_64-unknown-windows-msvc\\debug\\CrackStationPackageTests.derived\\CrackStationTests.swift": [1667962548, 0]
+  "D:\\OSU\\SEM\\CrackStation\\.build\\x86_64-unknown-windows-msvc\\debug\\CrackStationPackageTests.derived\\runner.swift": [1667962548, 0]

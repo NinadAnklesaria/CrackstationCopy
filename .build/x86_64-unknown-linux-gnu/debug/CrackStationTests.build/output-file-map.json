@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/mnt/d/OSU/SEM/CrackStation/.build/x86_64-unknown-linux-gnu/debug/CrackStationTests.build/master.swiftdeps"
+  },
+  "/mnt/d/OSU/SEM/CrackStation/Tests/CrackStationTests/CrackStationTests.swift": {
+    "dependencies": "/mnt/d/OSU/SEM/CrackStation/.build/x86_64-unknown-linux-gnu/debug/CrackStationTests.build/CrackStationTests.d",
+    "object": "/mnt/d/OSU/SEM/CrackStation/.build/x86_64-unknown-linux-gnu/debug/CrackStationTests.build/CrackStationTests.swift.o",
+    "swiftmodule": "/mnt/d/OSU/SEM/CrackStation/.build/x86_64-unknown-linux-gnu/debug/CrackStationTests.build/CrackStationTests~partial.swiftmodule",
+    "swift-dependencies": "/mnt/d/OSU/SEM/CrackStation/.build/x86_64-unknown-linux-gnu/debug/CrackStationTests.build/CrackStationTests.swiftdeps"
+  }
+}

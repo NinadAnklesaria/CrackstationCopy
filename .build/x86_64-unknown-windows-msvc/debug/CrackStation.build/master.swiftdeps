@@ -1,0 +1,8 @@
+version: "compnerd.org Swift version 5.7 (swift-5.7-RELEASE)"
+options: "eb6f752e555857d95a81d03c2a3e6e4076628bff4d205ed33f2ca26bc89ee863"
+build_start_time: [1667962524, 95998764]
+build_end_time: [1667962546, 289999008]
+inputs:
+  ? "D:\\OSU\\SEM\\CrackStation\\.build\\x86_64-unknown-windows-msvc\\debug\\CrackStation.build\\DerivedSources\\resource_bundle_accessor.swift"
+  : [1667962523, 0]
+  "D:\\OSU\\SEM\\CrackStation\\Sources\\CrackStation\\CrackStation.swift": [1667962498, 0]

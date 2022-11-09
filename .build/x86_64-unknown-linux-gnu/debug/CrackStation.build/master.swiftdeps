@@ -1,0 +1,8 @@
+version: "Swift version 5.7 (swift-5.7-RELEASE)"
+options: "a5874e42d0154360b761b1e5e0de656b0e382b97bf7b5d6866d62e57fde3a2c1"
+build_start_time: [1667089696, 433474063]
+build_end_time: [1667089699, 417333126]
+inputs:
+  ? "/mnt/d/OSU/SEM/CrackStation/.build/x86_64-unknown-linux-gnu/debug/CrackStation.build/DerivedSources/resource_bundle_accessor.swift"
+  : [1667082044, 335125923]
+  "/mnt/d/OSU/SEM/CrackStation/Sources/CrackStation/CrackStation.swift": [1667088858, 239135265]

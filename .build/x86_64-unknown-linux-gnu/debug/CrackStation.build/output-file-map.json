@@ -1,0 +1,17 @@
+{
+  "": {
+    "swift-dependencies": "/mnt/d/OSU/SEM/CrackStation/.build/x86_64-unknown-linux-gnu/debug/CrackStation.build/master.swiftdeps"
+  },
+  "/mnt/d/OSU/SEM/CrackStation/Sources/CrackStation/CrackStation.swift": {
+    "dependencies": "/mnt/d/OSU/SEM/CrackStation/.build/x86_64-unknown-linux-gnu/debug/CrackStation.build/CrackStation.d",
+    "object": "/mnt/d/OSU/SEM/CrackStation/.build/x86_64-unknown-linux-gnu/debug/CrackStation.build/CrackStation.swift.o",
+    "swiftmodule": "/mnt/d/OSU/SEM/CrackStation/.build/x86_64-unknown-linux-gnu/debug/CrackStation.build/CrackStation~partial.swiftmodule",
+    "swift-dependencies": "/mnt/d/OSU/SEM/CrackStation/.build/x86_64-unknown-linux-gnu/debug/CrackStation.build/CrackStation.swiftdeps"
+  },
+  "/mnt/d/OSU/SEM/CrackStation/.build/x86_64-unknown-linux-gnu/debug/CrackStation.build/DerivedSources/resource_bundle_accessor.swift": {
+    "dependencies": "/mnt/d/OSU/SEM/CrackStation/.build/x86_64-unknown-linux-gnu/debug/CrackStation.build/resource_bundle_accessor.d",
+    "object": "/mnt/d/OSU/SEM/CrackStation/.build/x86_64-unknown-linux-gnu/debug/CrackStation.build/resource_bundle_accessor.swift.o",
+    "swiftmodule": "/mnt/d/OSU/SEM/CrackStation/.build/x86_64-unknown-linux-gnu/debug/CrackStation.build/resource_bundle_accessor~partial.swiftmodule",
+    "swift-dependencies": "/mnt/d/OSU/SEM/CrackStation/.build/x86_64-unknown-linux-gnu/debug/CrackStation.build/resource_bundle_accessor.swiftdeps"
+  }
+}

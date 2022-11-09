@@ -1,0 +1,17 @@
+{
+  "": {
+    "swift-dependencies": "/mnt/d/OSU/SEM/CrackStation/.build/x86_64-unknown-linux-gnu/debug/CrackStationPackageTests.build/master.swiftdeps"
+  },
+  "/mnt/d/OSU/SEM/CrackStation/.build/x86_64-unknown-linux-gnu/debug/CrackStationPackageTests.derived/CrackStationTests.swift": {
+    "dependencies": "/mnt/d/OSU/SEM/CrackStation/.build/x86_64-unknown-linux-gnu/debug/CrackStationPackageTests.build/CrackStationTests.d",
+    "object": "/mnt/d/OSU/SEM/CrackStation/.build/x86_64-unknown-linux-gnu/debug/CrackStationPackageTests.build/CrackStationTests.swift.o",
+    "swiftmodule": "/mnt/d/OSU/SEM/CrackStation/.build/x86_64-unknown-linux-gnu/debug/CrackStationPackageTests.build/CrackStationTests~partial.swiftmodule",
+    "swift-dependencies": "/mnt/d/OSU/SEM/CrackStation/.build/x86_64-unknown-linux-gnu/debug/CrackStationPackageTests.build/CrackStationTests.swiftdeps"
+  },
+  "/mnt/d/OSU/SEM/CrackStation/.build/x86_64-unknown-linux-gnu/debug/CrackStationPackageTests.derived/runner.swift": {
+    "dependencies": "/mnt/d/OSU/SEM/CrackStation/.build/x86_64-unknown-linux-gnu/debug/CrackStationPackageTests.build/runner.d",
+    "object": "/mnt/d/OSU/SEM/CrackStation/.build/x86_64-unknown-linux-gnu/debug/CrackStationPackageTests.build/runner.swift.o",
+    "swiftmodule": "/mnt/d/OSU/SEM/CrackStation/.build/x86_64-unknown-linux-gnu/debug/CrackStationPackageTests.build/runner~partial.swiftmodule",
+    "swift-dependencies": "/mnt/d/OSU/SEM/CrackStation/.build/x86_64-unknown-linux-gnu/debug/CrackStationPackageTests.build/runner.swiftdeps"
+  }
+}
