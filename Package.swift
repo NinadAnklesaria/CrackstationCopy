@@ -9,7 +9,7 @@ let package = Package(
         // Products define the executables and libraries a package produces, and make them visible to other packages.
         .library(
             name: "CrackStation",
-            targets: ["CrackStation"]),
+            targets: ["CrackstationCopy"]),
     ],
     dependencies: [
         // Dependencies declare other packages that this package depends on.
